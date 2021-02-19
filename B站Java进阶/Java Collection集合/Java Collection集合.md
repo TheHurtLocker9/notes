@@ -32,7 +32,7 @@
 collection接口中有一个方法iterator( ),此方法用于返回的就是Iterator迭代器的实现对象。
 
 ```java
-        //获取Iterator<>迭代器
+        //获取Iterator<T>迭代器
         Iterator<String> iteratorStr = strings.iterator();
         //使用迭代器遍历输出集合
         while (iteratorStr.hasNext()){
