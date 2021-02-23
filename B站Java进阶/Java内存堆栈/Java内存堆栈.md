@@ -1,8 +1,8 @@
 # Java内存堆栈
 
-![java堆栈内存图解](C:\Users\41489\Desktop\B站Java进阶\Java内存堆栈\java堆栈内存图解.png)
+![java堆栈内存图解](java堆栈内存图解.png)
 
-![java堆栈内存图解1](C:\Users\41489\Desktop\B站Java进阶\Java内存堆栈\java堆栈内存图解1.png)
+![java堆栈内存图解1](java堆栈内存图解1.png)
 
 1. java内存包括堆、栈和方法区。
 2. 栈中出入操作方法和局部变量，main方法为栈入口（即栈底）。
